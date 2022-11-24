@@ -1,0 +1,6 @@
+2022/11/24-07:05:52.993 3 Reusing MANIFEST /mnt/data/mengoding/bot-wa/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2022/11/24-07:05:52.998 3 Recovering log #10
+2022/11/24-07:05:52.999 3 Reusing old log /mnt/data/mengoding/bot-wa/.wwebjs_auth/session/Default/Local Storage/leveldb/000010.log 
+2022/11/24-07:07:58.828 3 Level-0 table #14: started
+2022/11/24-07:07:58.878 3 Level-0 table #14: 12387 bytes OK
+2022/11/24-07:07:58.918 3 Delete type=0 #10

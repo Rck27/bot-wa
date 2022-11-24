@@ -1,0 +1,18 @@
+2022/11/24-07:03:06.029 520b Reusing MANIFEST /mnt/data/mengoding/bot-wa/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/24-07:03:06.029 520b Recovering log #153
+2022/11/24-07:03:06.186 520b Reusing old log /mnt/data/mengoding/bot-wa/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000153.log 
+2022/11/24-07:03:07.605 51ed Level-0 table #161: started
+2022/11/24-07:03:07.737 51ed Level-0 table #161: 1272653 bytes OK
+2022/11/24-07:03:07.773 51ed Delete type=0 #153
+2022/11/24-07:03:17.696 51ee Compacting 1@1 + 4@2 files
+2022/11/24-07:03:17.975 51ee Generated table #162@1: 29272 keys, 2251549 bytes
+2022/11/24-07:03:18.180 51ee Generated table #163@1: 23989 keys, 2268595 bytes
+2022/11/24-07:03:18.424 51ee Generated table #164@1: 58712 keys, 2270802 bytes
+2022/11/24-07:03:18.502 51ee Generated table #165@1: 18800 keys, 517621 bytes
+2022/11/24-07:03:18.502 51ee Compacted 1@1 + 4@2 files => 7308567 bytes
+2022/11/24-07:03:18.539 51ee compacted to: files[ 0 0 4 0 0 0 0 ]
+2022/11/24-07:03:18.539 51ee Delete type=2 #157
+2022/11/24-07:03:18.539 51ee Delete type=2 #156
+2022/11/24-07:03:18.539 51ee Delete type=2 #161
+2022/11/24-07:03:18.539 51ee Delete type=2 #158
+2022/11/24-07:03:18.539 51ee Delete type=2 #155
